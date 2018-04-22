@@ -1,4 +1,5 @@
 // Sets player score
+'use strict'
 var score = 0;
 
 // Enemies our player must avoid
